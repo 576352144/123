@@ -5,4 +5,4 @@ a merge master
 
 test pull request
 
-a new test pull request
+make a conflict
